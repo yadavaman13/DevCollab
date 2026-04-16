@@ -1,6 +1,6 @@
 <div align="center">
 
-# Collaborative Code Editor
+# DevCollab
 
 ### Real-time editing, seamless collaboration.
 
@@ -173,10 +173,6 @@ Access the app, enter your username, and share the URL with others to collaborat
 ---
 
 ## 🗺️ Roadmap
-- Persistent document storage (MongoDB)
-- User authentication and authorization
-- Multi-file support
-- Document history and version control
 - Docker containerization
 - AWS deployment setup
 
